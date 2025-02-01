@@ -1,0 +1,5 @@
+Les modèles entrainés n'ont pas pu être ajouté dans le dossier pipeline 2, il n'est donc pas complet.
+Je vous joins donc un lien OneDive avec l'ensemble du projet complet :
+https://alumniumonsac-my.sharepoint.com/:u:/g/personal/253882_umons_ac_be/ES5JLTbd4xhEj3z6xcOEm-wBl9dAWhvYX-WNSgJBUim4tQ?email=Stephane.DUPONT%40umons.ac.be&e=qfVE3L
+
+Il faut ajouter bert-base-french-europeana-cased.zip dans le répertoire courant avec le fichier de test pour tester le modèle.
